@@ -25,7 +25,6 @@
       <entry key="DirDiff">
         <PlaceSettings>
           <option name="ENABLE_SYNC_SCROLL" value="false" />
-          <option name="HIGHLIGHT_POLICY" value="DO_NOT_HIGHLIGHT" />
           <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES" />
         </PlaceSettings>
       </entry>
